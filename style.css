@@ -1,0 +1,26 @@
+img {
+    width:50%;
+    height:50%;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: center;
+    padding: auto;
+}
+
+section,h2,ol,li,p{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+h1{
+    text-align: center;
+
+}
+
+footer,#footer{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
